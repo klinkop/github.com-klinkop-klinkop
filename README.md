@@ -8,7 +8,7 @@ Currently, I’m diving deeper into **cloud computing** and **Java** while activ
 
 ---
 
-## 💼 Responsibilities
+### 💼 Responsibilities
 - Develop and maintain web and app-based systems (Laravel, JS, SQL)
 - Provide technical and hardware support across HQ and outlet branches
 - Manage and troubleshoot POS systems, inventory platforms, CCTV, and servers
@@ -17,7 +17,7 @@ Currently, I’m diving deeper into **cloud computing** and **Java** while activ
 
 ---
 
-## 🚀 Featured Project: `DTeraInventoryManagementSystem`
+### 🚀 Featured Project: `DTeraInventoryManagementSystem`
 
 > Multi-outlet inventory and cost tracking system built with Laravel + Docker
 
@@ -33,34 +33,48 @@ Currently, I’m diving deeper into **cloud computing** and **Java** while activ
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-**Languages & Frameworks:**  
-`PHP` `Laravel` `JavaScript` `SQL` `HTML` `CSS` `Java (learning)`
-
-**Tools & Platforms:**  
-`Docker` `Git/GitHub` `Composer` `NPM` `Linux` `Snappy PDF` `Chart.js` `DataTables`
-
-**Systems & Domains:**  
-`POS Systems` `Inventory Platforms` `Internal Business Tools` `Security (CCTV)` `Server Maintenance`
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-E74430?style=flat&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
+### 📚 Currently Learning
 - ☁️ **Cloud Computing** (Infrastructure & Services)
 - ☕ **Java** (Backend fundamentals & system design)
 
 ---
 
-## 🤝 Open to
-- Freelance Projects
-- Collaborations
-- Backend / Full-stack Developer Roles
+### 🤝 Open to
+- Freelance Projects  
+- Collaborations  
+- Backend / Full-stack Developer Roles  
 
 ---
 
-## 📫 Let's Connect
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/saren-raj-rengiah-9ab4452b6/)
-- Email: sarenraj6040@gmail.com 
+### 📫 Let's Connect
 
-Thanks for visiting my profile! 🙌
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saren-raj-rengiah-9ab4452b6/)
+[![Gmail](https://img.shields.io/badge/Gmail-sarenraj6040@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarenraj6040@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarenraj&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarenraj&layout=compact&theme=default" width="48%" />
+</p>
+
+---
+
+_Thanks for visiting my profile! 🙌_
