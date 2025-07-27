@@ -64,7 +64,7 @@ Currently, I’m diving deeper into **cloud computing** and **Java** while activ
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/saren-raj/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saren-raj/)
 [![Gmail](https://img.shields.io/badge/Gmail-sarenraj6040@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarenraj6040@gmail.com)
 
 ---
