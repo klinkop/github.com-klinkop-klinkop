@@ -7,7 +7,7 @@ I'm a passionate software developer focused on building scalable internal tools 
 Currently, I’m diving deeper into **cloud computing** and **Java** while actively developing full-stack web and app solutions.
 
 ---
-
+<!--
 ### 💼 Responsibilities
 - Develop and maintain web and app-based systems (Laravel, JS, SQL)
 - Provide technical and hardware support across HQ and outlet branches
@@ -15,7 +15,8 @@ Currently, I’m diving deeper into **cloud computing** and **Java** while activ
 - Deploy systems using Docker and Linux-based environments
 - Automate reporting, profit tracking, and dashboard analytics
 
----
+--- 
+-->
 
 ### 🚀 Featured Project: `DTeraInventoryManagementSystem`
 
