@@ -68,7 +68,7 @@ Currently, I’m diving deeper into **cloud computing** and **Java** while activ
 [![Gmail](https://img.shields.io/badge/Gmail-sarenraj6040@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarenraj6040@gmail.com)
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -77,5 +77,5 @@ Currently, I’m diving deeper into **cloud computing** and **Java** while activ
 </p>
 
 ---
-
+-->
 _Thanks for visiting my profile! 🙌_
